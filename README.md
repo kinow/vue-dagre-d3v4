@@ -1,6 +1,6 @@
 # vue-dagre-d3v4
 
-> A Vue component to draw directed acyclic graphs in the browser leveraging dagre-d3v4
+> A Vue component to draw directed acyclic graphs in the browser leveraging dagre-d3v4 (https://github.com/smbolton/dagre-d3v4)
 
 ## Build Setup
 
